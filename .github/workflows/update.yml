@@ -1,0 +1,21 @@
+YAML
+name: update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - run: pip install requests
+      - run: python filter.py
+      - run: |
+          git config --global user.name bot
+          git config --global user.email bot@bot.com
+          git add ru.txt
+          git commit -m update || exit 0
+          git push
