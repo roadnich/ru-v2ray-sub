@@ -1,7 +1,8 @@
 YAML
-name: update
+name: update_ru_sub
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
 
@@ -11,11 +12,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - run: pip install requests
-      - run: python filter.py
-      - run: |
-          git config --global user.name bot
-          git config --global user.email bot@bot.com
+
+      - name: install python
+        run: pip install requests
+
+      - name: run filter
+        run: python filter.py
+
+      - name: commit file
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email actions@github.com
           git add ru.txt
-          git commit -m update || exit 0
+          git commit -m "update ru list" || exit 0
           git push
