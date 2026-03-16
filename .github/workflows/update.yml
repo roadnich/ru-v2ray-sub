@@ -1,39 +1,27 @@
-name: update_ru
+name: Update RU configs
 
 on:
+  schedule:
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # Скачиваем репозиторий
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      # Настройка Python через Anaconda
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+      - name: Download source file
+        run: curl -L -o source.txt "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/1.1.txt"
 
-      # Устанавливаем requests
-      - name: Install requests
-        run: pip install requests
+      - name: Filter RU lines
+        run: grep "RU-" source.txt > ru-configs.txt || true
 
-      # Запускаем скрипт фильтра RU серверов
-      - name: Run filter script
-        run: python filter.py
-
-      # Показать содержимое (для проверки)
-      - name: Show files
-        run: ls -la
-
-      # Закоммитить ru.txt и отправить обратно в репозиторий
-      - name: Commit ru.txt
+      - name: Commit and push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add ru.txt
-          git commit -m "update ru list" || echo "no changes"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add ru-configs.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update RU configs"
           git push
