@@ -17,16 +17,12 @@ for node in decoded:
             raw = node.replace("vmess://", "")
             j = json.loads(base64.b64decode(raw + "==").decode())
             name = j.get("ps", "").lower()
-
             if "ru" in name or "russia" in name or "moscow" in name:
                 ru_nodes.append(node)
-
         elif "ru" in node.lower():
             ru_nodes.append(node)
     except:
         pass
 
-result = base64.b64encode("\n".join(ru_nodes).encode()).decode()
-
 with open("ru.txt", "w") as f:
-    f.write(result)
+    f.write(base64.b64encode("\n".join(ru_nodes).encode()).decode())
