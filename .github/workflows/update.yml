@@ -8,23 +8,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Скачиваем репозиторий
       - uses: actions/checkout@v3
 
-      - name: setup python
+      # Настройка Python через Anaconda
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: install requests
+      # Устанавливаем requests
+      - name: Install requests
         run: pip install requests
 
-      - name: run filter script
+      # Запускаем скрипт фильтра RU серверов
+      - name: Run filter script
         run: python filter.py
 
-      - name: show files
+      # Показать содержимое (для проверки)
+      - name: Show files
         run: ls -la
 
-      - name: commit ru.txt
+      # Закоммитить ru.txt и отправить обратно в репозиторий
+      - name: Commit ru.txt
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
