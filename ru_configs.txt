@@ -1,18 +1,14 @@
 # RU V2Ray Configs
-# Updated: Sat May 16 07:33:28 UTC 2026
-# Total: 14 configs
+# Updated: Sun May 17 08:00:53 UTC 2026
+# Total: 10 configs
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTEAyMTIuMjMzLjc3LjIxMzo4Mzg4#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-19378
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.211.170.101:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21546
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.232.143.29:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21589
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.58.48.252:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21677
-vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@195.209.82.149:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-23329
-vless://a3b07a39-dbbc-Fade-b5de-a5797996c246@195.209.88.180:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-23896
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDc1FGem9ISEtBQkhHQ2lWU2hjY2Nn@82.97.249.93:2050#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-23979
-vless://6bf16d72-5431-47b4-903a-59e8c4c22de5@5.188.115.98:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=P5KfTl_fQ0lZutcRdLhEzhwWhPNJtrVYf2reWB5LgD8#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24008
-vless://796fa507-68d8-4733-b45b-fc16bcff0603@srv35.datatowers.net:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&security=reality&sni=srv35.datatowers.net&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24036
-vless://c4fcc408-1cc6-43d7-a815-0e1ae7e340e4@109.73.199.48:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24065
-vless://d02e981d-99cb-4196-9edf-2ce0c5b2ac0f@158.160.240.14:3449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=dev.tau.vk.ru&pbk=y8Xef3AIk7TEbLdu2WkC1NX0jtdxrSs9xsAxLqkSXA8&sid=9d8e40b1e50c3b63&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24094
-vless://24f6263c-a029-470d-8e54-36c6d4a01e27@158.160.22.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=65c7748be8#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24123
-vless://25f1947f-63a8-2040-8f3b-b101eed550e7@s1.ws.listwhite.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=s1.ws.listwhite.cc&fp=chrome&path=%2Fupload%2Fsession&host=s1.ws.listwhite.cc&insecure=0#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24152
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMmpUb3hzeDR2VGV2cXJGaUxHdXdSeDk2U1hNM0M5NmlkMU1XcG5TRUNIcTNNYVRXbkVWNzZhTjVQWUVpZ1JmcWY3cnhBY3VBTVdVellOeHJZUkc2UWhNY1l3NVFucUxAZG93bmxvYWQucmlmZXJvc2VyLmljdTo1NjU5NA==#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BC%20TW-103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@212.233.77.213:8388#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-20463
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.141.184.145:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21555
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.17.43.161:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21622
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@212.233.77.213:8388#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-21927
+vless://34954be5-333b-fade-ab1e-00c7df47eb28@195.209.90.178:443?encryption=none&type=ws&security=tls&path=/&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-23718
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@176.98.178.163:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ru3.skysafe.online&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&spx=/#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24084
+vless://24f6263c-a029-470d-8e54-36c6d4a01e27@158.160.252.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24144
+vless://d52936ab-2091-4f3a-87c2-6b02a9eb20d5@45.89.190.179:443?security=reality&encryption=none&pbk=mhvT7-nUtXaWrw1Xf7JmBsB0Twj4-alH73mgsN4PZz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=29f847c151f96091#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24173
+vless://d8eb2fc8-8d39-4728-a513-cb91360731c0@5.188.114.66:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=pEAQqtg98GKvvOnwTcpZp508WvMFZcFx8x7c5wzelVc&sid=7ad1211a97aa&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24201
+vless://18f88fb7-470f-Fade-8da9-b57f35009c6d@195.209.88.216:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24234
