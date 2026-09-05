@@ -1,12 +1,11 @@
 # RU V2Ray Configs
-# Updated: Fri Sep  4 09:57:28 UTC 2026
-# Total: 8 configs
+# Updated: Sat Sep  5 09:25:36 UTC 2026
+# Total: 7 configs
 
-vless://eb85f61f-acb3-4689-8b7c-d8ad2a6aa43f@5.175.161.47:8443?encryption=none&type=grpc&serviceName=grpc&security=reality&fp=qq&pbk=6hrP_JlRUK40WwXk9ZL0FpB19bTR0RnrUGYX5SaZkCE&sni=gateway.icloud.com&sid=0501b478da6a4950#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23057
-vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?&security=tls&fp=chrome&type=ws&headerType=&host=bz16.wba-pn.ru&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34984
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&security=reality&sid=bef240e96a8474a3&sni=russia.cendora.ru&type=tcp%23%F0%9F%AA%8690@oneclickvpnkeys
-vless://0923e6dc-8a03-41b9-bd19-ec22e8466967@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35099
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@rf5.helper-internet.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=&sid=ff776ff77be48b88#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34983
-vless://307998ce-9dc2-473b-81bb-6c359817df5c@185.185.69.251:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34779
-vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11447?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=3b149d533a&serviceName=gun&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35092
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@212.41.11.31:9882?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=edge#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35147
+vless://ba12daae-cba5-475b-9289-40a99c0d3f19@198.251.78.29:2053/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=q-3ozCtN4ylZ-ribiIrhIYzMieCnRUvGfS34d_eWmCs&sid=063b573f23a2ee51#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25816
+vless://5c43b6d8-f71a-46d6-b804-f86349e6f313@77.222.47.204:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35016
+vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11446?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=ios#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35087
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=/?BIA_TELEGRAM–madshopx&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35066
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.31.201.19:443?security=reality&encryption=none&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=a1b2c3d4#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35141
+vless://86221972-81a1-41f4-a48c-c512af05777c@45.92.177.10:9894?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35138
+vless://a09e049a-783b-4cbc-9493-a5e4ac361303@31.77.56.201:4284?type=tcp&security=reality&encryption=none&fp=firefox&pbk=nllgSRcKDpgXUS23CrVnScDR9CVRUGS9g4IuKYi7Gmo&sid=779859&sni=github.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2110
