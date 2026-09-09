@@ -1,11 +1,13 @@
 # RU V2Ray Configs
-# Updated: Tue Sep  8 10:05:44 UTC 2026
-# Total: 7 configs
+# Updated: Wed Sep  9 10:08:08 UTC 2026
+# Total: 9 configs
 
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@82.202.157.181:9873?encryption=none&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35158
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@188.68.216.203:9894?security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35191
-vless://2324f230-0341-47c7-8aac-8974fd48f0a4@79.174.92.85:6443?type=grpc&security=reality&encryption=none&sni=iv.kommersant.ru&fp=firefox&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&headerType=none&serviceName=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35185
-vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.158.17:30026?flow=xtls-rprx-vision&headertype=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&security=reality&sni=www.google.com&type=tcp&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35217
-vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.21.191:30021?flow=xtls-rprx-vision&headertype=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&security=reality&sni=www.google.com&type=tcp&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35240
-vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?mode=gun&security=reality&encryption=none&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&fp=chrome&type=grpc&serviceName=your-custom-path&sni=maps.apple.com&sid=2da4299da566b7#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35274
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&sni=deepl.com&type=tcp&host=telegram-Leviko-v2ray&fp=qq&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-3904
+vless://ecf728d9-1555-4e12-b178-1d8bd98465e4@game-booster.sowt.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=game-booster.sowt.app&path=%2Fgateway%2Fv1%2Fws%2F6d50d81f0b49c137b1564bce4760eaee&fp=edge#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35253
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@stream.benz.ink:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=api%2Fv2%2Fstream%2Fshamik&security=tls&sni=stream.benz.ink&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35266
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35196
+vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.158.17:30044?flow=xtls-rprx-vision&headertype=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&security=reality&sni=www.google.com&type=tcp&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35224
+vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.21.191:30049?flow=xtls-rprx-vision&headertype=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&security=reality&sni=www.google.com&type=tcp&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35243
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-24142
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@80.90.185.80:9892?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35298
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?fp=qq&host=telegram-leviko-v2ray&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-4317
+vless://60e2a548-96aa-4850-a279-1edab743c39b@109.176.229.45:2083?security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=firefox&type=grpc&serviceName=remnagrpc&sni=autotrader.co.uk&sid=8b71da690c3d5d03#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-3119
