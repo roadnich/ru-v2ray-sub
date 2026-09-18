@@ -1,17 +1,9 @@
 # RU V2Ray Configs
-# Updated: Thu Sep 17 10:27:16 UTC 2026
-# Total: 13 configs
+# Updated: Fri Sep 18 10:03:24 UTC 2026
+# Total: 5 configs
 
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7rwn4e4IFVTLTE2MzIxIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IkhMLUZSRUVET00tMS5VTkRFRi5ORVRXT1JLIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
-vless://5e60c26d-93e6-427f-92a7-9bd4a354cb7f@freeshka.i-love-russia.online:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=freeshka.i-love-russia.online&fp=firefox&pbk=Tm50a8xPW6cazNhgmTSHNbVfqaplvNSx0BQoJCGe3jU&sid=4aa753c327e7fd94&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-12296
-vless://7f90a2db-beb4-4c43-8791-0f79851011f1@95.129.236.239:443?type=ws&security=tls&encryption=none&path=%2Fstream%2F615428%2Fsocket&host=login.ansable.cc&sni=login.ansable.cc&fp=chrome&alpn=http%2F1.1&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35519
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35288
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZUAxOTUuMTMzLjIzLjIwMDo3MDE4#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35514
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35150
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@45.91.55.208:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&sni=io.ozone.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35390
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.89:9889?security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=00000000#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35470
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@api.betust.net:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=d6c172d3#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35490
-vless://50b56441-7e4d-499d-b7da-49ca5fe6982b@212.233.120.1:443?alpn=http/1.1&encryption=none&fp=edge&path=/e7ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35521
-ss://YWVzLTI1Ni1nY206OGFkOWQ3MmE1NTcxZGY4NkAxOTUuNTguNDguMTM3OjkwMTk=#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35543
-vless://24f8cbc6-6bf6-4109-8909-930d484ee9e0@ru1-edge.safe-connect.info:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ru1-edge.safe-connect.info&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35557
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?fp=qq&host=telegram-leviko-v2ray&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-4317
+vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@188.225.25.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&security=reality&sid=8681edc9&sni=prime.betust.net&type=raw#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35483
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.117:9894?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35500
+vless://f3df8830-8a91-415f-a955-f50740b08dfa@185.229.9.236:43005?type=raw&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=tP_mtYuA3fZq8C6WatAA4TmDv0_Wigq9xYcmb5UsTRA&sid=93653ee07ff5124c&spx=%2F&flow=xtls-rprx-vision&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35570
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4YkAxNzYuMzIuMzUuNDQ6NTAxMTE=#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35566
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%AA%20EE-702
