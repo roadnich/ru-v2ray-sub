@@ -1,10 +1,9 @@
 # RU V2Ray Configs
-# Updated: Sat Sep 19 09:43:51 UTC 2026
-# Total: 6 configs
+# Updated: Sun Sep 20 10:07:21 UTC 2026
+# Total: 5 configs
 
-vless://01a21e01-6098-4c3b-a6fd-1a04d64d0c7f@prime.betust.net:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8681edc9#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35495
-vless://f3df8830-8a91-415f-a955-f50740b08dfa@185.229.9.236:43005?type=raw&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=tP_mtYuA3fZq8C6WatAA4TmDv0_Wigq9xYcmb5UsTRA&sid=93653ee07ff5124c&spx=%2F&flow=xtls-rprx-vision&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35570
-vless://ca83b14f-a1c9-4afd-a1cf-70b1ba76135a@api.mediaprival.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediaprival.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=edge#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35529
 vless://d097ade5-225a-4a50-9f0e-fae258aa4d0c@api.videoistok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videoistok.cc&fp=edge&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35594
-ss://YWVzLTI1Ni1nY206OGFkOWQ3MmE1NTcxZGY4NkAxOTUuNTguNDguMTM3OjEwOTAw#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35601
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&fp=firefox&sni=deepl.com&type=tcp&headerType=none&host=deepl.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-3734
+vless://ea436a87-78cd-409f-a812-ab9d3db563df@185.241.195.202:9444?type=raw&security=reality&encryption=none&sni=res.cdnguard.org&fp=firefox&pbk=zoQ5Lz62_sEMvHJywCYjYpunMOlGG1rf_jL81iCbwQk&sid=413da1312ccce8fb&flow=xtls-rprx-vision&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35582
+vless://f3928566-15b9-421e-a943-57d280b799c9@87.242.95.210:2443?type=raw&security=reality&encryption=none&sni=cloudcdn-m9-9.cdn.yandex.net&fp=firefox&pbk=uVBnwRHxC00G__KwRjBul-KLyS2F0PNwGQZJy5hwxEw&sid=744283eabd1dade6&flow=xtls-rprx-vision&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35655
+vmess://35b89832-0a7c-48dd-8d1c-a2891b522195@45.32.57.118:4433?encryption=auto&security=none&type=tcp%23%F0%9F%8E%A190@oneclickvpnkeys#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35319
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@russia.cloudpath.live:443?encryption=none&security=reality&sni=ads.x5.ru&pbk=FfcdBaTRPP5DDUiPmDRFOOghIw8h6-i9j_QyHQI3FUw&sid=acc4dfcc&type=tcp&headerType=none&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AA%20GE-19
