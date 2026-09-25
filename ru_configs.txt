@@ -1,5 +1,5 @@
 # RU V2Ray Configs
-# Updated: Thu Sep 24 10:31:24 UTC 2026
+# Updated: Fri Sep 25 10:37:03 UTC 2026
 # Total: 5 configs
 
 vless://1f805a1d-82a5-4549-b7e2-9a433300a2d6@87.242.94.69:1443?encryption=none&fp=firefox&mode=gun&pbk=xuCfFoK0x0ZEOvd7HQ9dF2HlZMkKvVV9rQmkiYcBuik&security=reality&sid=327088cd7331&sni=edge.edgeprobe.dev&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35722
