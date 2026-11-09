@@ -1,9 +1,19 @@
 # RU V2Ray Configs
-# Updated: Sun Nov  8 12:13:12 UTC 2026
-# Total: 5 configs
+# Updated: Mon Nov  9 14:22:37 UTC 2026
+# Total: 15 configs
 
-vless://1f805a1d-82a5-4549-b7e2-9a433300a2d6@87.242.94.69:1443?encryption=none&fp=firefox&mode=gun&pbk=xuCfFoK0x0ZEOvd7HQ9dF2HlZMkKvVV9rQmkiYcBuik&security=reality&sid=327088cd7331&sni=edge.edgeprobe.dev&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35722
-vless://3c092bd5-f723-4a64-b576-9fb0fd9d3543@2.27.54.106:60016?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ&sid=a150dff4&sni=eh.vk.com#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35724
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35545
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@85.208.86.91:9872?encryption=none&security=reality&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-35696
-vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?fp=qq&host=leviko_v2ray&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-4102
+vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21001?encryption=none&security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&sid=ab39fc68ab3dee81#%5BOpenRay%5D%20%F0%9F%8C%90XX-41
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?flow=xtls-rprx-vision&fp=safari&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-35
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?sni=www.iloverussia2026.com#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-63
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=/service/telemetry/045d381f1166/&host=bhjolq0d0l.flowersgood.top&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-61
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=G16EKGpV35sUVK9pkuLvnWd2IGX2tcajNnV7w5bI4ig&sid=2423df4e&serviceName=cas-it#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-89
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?security=none&type=ws&path=%2Fvless&host=45.138.100.248&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-100
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-117
+vless://8d954cbe-7ca9-402d-bfaf-aca6c92c04c3@5.129.237.55:443?encryption=none&flow=xtls-rprx-vision&pbk=LFbPIbtPbYVHinY8qVv9uGji-10AUbJRpiy2b1w35ls&security=reality&sid=a623829279b6054a&sni=www.asml.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-161
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-182
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&fp=edge&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-183
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=ios&alpn=h2&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-185
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@95.143.188.113:443?type=grpc&security=tls&encryption=none&sni=tz5gtjwlki.j.cloudfront.hls.hlsnode.net&fp=safari&alpn=h2&headerType=none&serviceName=sync.v1&mode=multi#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-219
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?flow=xtls-rprx-vision&fp=ios&host=%2F%3Ftelegram--marambashi--marambashi&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-234
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@217.19.122.156:443?type=ws&security=tls&encryption=none&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&host=z1q3pv4g78.rucdncomp.pro&sni=z1q3pv4g78.rucdncomp.pro&fp=random&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-243
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BARU-272
