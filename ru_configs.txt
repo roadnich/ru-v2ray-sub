@@ -1,5 +1,5 @@
 # RU V2Ray Configs
-# Updated: Tue Nov 10 13:47:08 UTC 2026
+# Updated: Wed Nov 11 12:58:14 UTC 2026
 # Total: 15 configs
 
 vless://41b1c169-5905-4d98-b6a6-56896c25737c@511.150333.xyz:21001?encryption=none&security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&sid=ab39fc68ab3dee81#%5BOpenRay%5D%20%F0%9F%8C%90XX-41
